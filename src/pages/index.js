@@ -48,6 +48,7 @@ function IndexPage(props) {
                                     className="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10"
                                     width={2432}
                                     height={1442}
+                                    loading="lazy"
                                 />
                                 <div className="relative" aria-hidden="true">
                                     <div className="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
